@@ -13,6 +13,7 @@
   },
   "browser_specific_settings": {
     "gecko": {
+      "id": "UK version"
       "strict_min_version": "64.0"
     }
   },
